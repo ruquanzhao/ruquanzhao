@@ -1,6 +1,5 @@
 ### Hi there 👋
-I am finding a job about Cloud Native.
-Email: 903264308@qq.com
+I am an individual contributor now. Happy to take tasks about kubernetes/containerd/etc.
 
 
 ![](https://github-readme-stats.vercel.app/api?username=ruquanzhao)
