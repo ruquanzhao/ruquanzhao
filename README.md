@@ -1,7 +1,8 @@
 ### Hi there 👋
 Nice to see you!
 
-Respone really really really slow.
+I am determined to become a programming master!
+立志成为编程高手！
 
 ![](https://github-readme-stats.vercel.app/api?username=ruquanzhao)
 <!--
